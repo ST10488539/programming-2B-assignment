@@ -7,6 +7,7 @@ RaceDay is a centralized race management application designed to organize, manag
 
 ## User Roles
 
+
 ### 1. Administrator
 * **Responsibilities:** Manages event setups, configures race parameters, oversees user accounts, and maintains data integrity across all system operations.
 * **Key Actions:** Create/edit race events, manage user permissions, and publish official race results.
